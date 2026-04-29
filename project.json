@@ -1,0 +1,25 @@
+{
+  "overview": "A modern, trust-driven real estate landing website for Hari Om Real Estate & Properties — showcasing land and plot opportunities near Jaipur with immersive visuals, bilingual content, and direct WhatsApp/phone inquiry buttons.",
+  "features": [
+    "Immersive hero with emotional Hindi+English headlines and Call/WhatsApp CTAs",
+    "6 featured sample plots with popup detail modals on click",
+    "4 land category cards (Residential, Farm, Investment, Commercial)",
+    "Why Choose Us trust section with process steps",
+    "5 bilingual testimonials (Hindi+English) with star ratings",
+    "Sticky WhatsApp and Phone buttons always visible",
+    "Micro-interactions: hover zoom, card lift, smooth scroll, fade-in animations",
+    "Mobile-first responsive design"
+  ],
+  "category": "real-estate",
+  "tags": [
+    "real-estate",
+    "landing-page",
+    "hindi",
+    "jaipur",
+    "plots",
+    "whatsapp",
+    "mobile-first",
+    "trust-building"
+  ],
+  "last_updated": "2026-04-29T08:46:19.732Z"
+}
